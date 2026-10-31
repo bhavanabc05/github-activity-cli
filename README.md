@@ -122,3 +122,7 @@ This project uses the [GitHub REST API](https://docs.github.com/en/rest) to retr
 ---
 
 **Built as a beginner JavaScript project to practise working with APIs and building command-line applications.**
+
+## Project Source
+
+Project idea: [GitHub Activity](https://roadmap.sh/projects/your-project-slug)
