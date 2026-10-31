@@ -125,4 +125,4 @@ This project uses the [GitHub REST API](https://docs.github.com/en/rest) to retr
 
 ## Project Source
 
-Project idea: [GitHub Activity]([https://roadmap.sh/projects/your-project-slug](https://roadmap.sh/projects/github-user-activity))
+Project idea: [GitHub Activity](https://roadmap.sh/projects/github-user-activity)
